@@ -1,0 +1,1 @@
+Enter "\f\l\ag.txt" in the input field and you'll get the flag as - Flag{sjk47_H0pe_th3_byp4s$_w4s_3A5y_5vd54}

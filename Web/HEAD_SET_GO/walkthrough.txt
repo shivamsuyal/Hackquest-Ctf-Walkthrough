@@ -1,0 +1,6 @@
+1. Capture the request in burpsuite.
+2. Sent it to repeater.
+3. Change the HTTP method from GET to HEAD.
+4. You'll get base64 encoded flag, decode it to get the flag.
+
+Flag{$1r_Head_0f_th3_F4m1y_54fg}

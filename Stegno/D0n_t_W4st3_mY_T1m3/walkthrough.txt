@@ -1,0 +1,9 @@
+1. Download the image
+2. Use any stegno tool to extract hidden file from the image
+3. We are using "steghide" here.
+4. Enter following command to extract file from image:
+    steghide extract -sf whiterose.jpg
+
+    You'll get a file named pseudo_key.text, check it's contents. 
+    You'll get a link open that link, open inspect element and click on the postd picture.
+    Decode alt text of the image with base64 and you'll get your flag as -  th1s_1s_y0ur_fla6

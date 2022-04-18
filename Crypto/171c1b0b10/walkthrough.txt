@@ -1,0 +1,1 @@
+Decode the text using any XOR decoder where key is OSINT

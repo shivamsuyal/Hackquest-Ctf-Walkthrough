@@ -1,0 +1,9 @@
+Convert `Galleta_is_here` into hash using SHA 256 algorithm.
+
+You'll get hash as: 4f36e3900ca8f7ff0e95bc3ee60939d6ca5441453f040dca5eaf8af56010efee
+
+Use this hash to add cookie in the website:
+
+document.cookie="Key=4f36e3900ca8f7ff0e95bc3ee60939d6ca5441453f040dca5eaf8af56010efee"
+
+Now refresh the page, you'll get the flag
