@@ -1,0 +1,8 @@
+Walkthrough
+1) google map
+2) search places near UPES, Dehradun
+3) eg: Riverpoint, Maggi point
+4) click on Smita Jha see all comments
+5) one of the comments has flag
+6) decode that flag on base64
+7) FLAG{ookfbehfbrd_tH!$_iS_mY_pH0n[-_djjefjbfv}
